@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=3000&pause=3000&width=435&lines=Hi+my+name+is+Nicolas+and+i'm+a+Fullstack+Developer+%F0%9F%9A%80" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Hi+my+name+is+Nicolas!;I'm+a+Fullstack+Developer+%F0%9F%8E%89" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -7,7 +7,7 @@
 ### 📌 About Me:
 
 - I'm a developer who is passionate about coding and creating crazy, creative projects.
-- I'm currently studying and building Node.js projects with **TypeScript** on the back end and **React** projects on the front end.
+- I'm currently studying and building Node.js projects with **TypeScript** on the back end and **NextJs/React** projects on the front end.
 - I completed a web page development course at **CEDESP**.
 - In my free time, I edit some videos.
 
@@ -40,7 +40,7 @@
 ---
 
 <div align="center">
-  <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyG9C016YpwicyZFB-egkgm617l7pnRSe8gQ&s" target="_blank">
+  <a href="https://nicolas-vieira-dev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/nicolas-dos-santos-vieira/" target="_blank">
